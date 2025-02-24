@@ -1,1 +1,1 @@
-# SearchSaveHosting
+# SearchSave Addin
